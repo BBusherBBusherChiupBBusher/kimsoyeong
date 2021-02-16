@@ -3,7 +3,8 @@ by [**@Soyeong_Kim**](https://github.com/kimsoyeong)
 
 <br/>
 This is a clone project of Twitter.
-[**Switter 🕊**](https://github.com/kimsoyeong/switter/)
+
+Check code here: [**Switter 🕊**](https://github.com/kimsoyeong/switter)
 
 <br/>
 
